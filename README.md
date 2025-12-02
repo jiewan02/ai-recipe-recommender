@@ -9,11 +9,13 @@ to suggest recipes tailored to the user’s natural-language prompt and current 
 ---
 
 ## Project Structure
+```
 mini_project2/
 ├─ client/          # React frontend
 ├─ backend/         # Node.js (Express) server
 ├─ model-server/    # Flask model server (conda environment)
 └─ codes/           # Data preprocessing & utility Python scripts
+```
 
 
 ---
